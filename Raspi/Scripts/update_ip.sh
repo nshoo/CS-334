@@ -9,7 +9,7 @@ while [ $? -ne 0 ]; do
 done
 
 # Write ip info to file
-ifconfig | grep inet | grep broadcast > ~/CS-334/Raspi/ip.md
+ifconfig | grep inet | grep broadcast > /home/student334/CS-334/Raspi/ip.md
 
 # Push ip file to github repo
 git -C /home/student334/CS-334/ add Raspi/ip.md
