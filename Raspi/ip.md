@@ -1,1 +1,1 @@
-        inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet 172.29.23.8  netmask 255.255.252.0  broadcast 172.29.23.255
