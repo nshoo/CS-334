@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+}
+
+iframe {
+    height: 179vw;
+    width: 100vw;
+    margin: 0px;
+    float: left;
+}
