@@ -1,4 +1,3 @@
 # CS-334
 
-WHY CANT I SEE YOUR COMMITSSSSSSSS??????? 
--Prof Scott
+A repository to hold all the code from Computer Science 334, newly updated and recovered.
