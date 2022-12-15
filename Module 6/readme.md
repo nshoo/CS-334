@@ -1,0 +1,3 @@
+## Mechanical Typewriter
+
+For my final project I decided to combine a lot of the concepts I had been working with and create a robot that could type on a keyboard like a human. This folder contains two programs that can be used with the typewriter. The first, `TypewriterTest.ino` allows you to manually jog all of the motors around, and then print out their current position. This is useful for testing pruposes, and also for creating keyframe sequences for use with the other file `TypewriterSequence.ino`. This file lets you store a sequence of moves for the typewriter to make that will then be played through on start up. Both programs take care of the x-axis homing for you. In order to run them, you simply load them onto the esp8266. 
